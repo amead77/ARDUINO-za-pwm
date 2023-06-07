@@ -23,13 +23,14 @@ after spending what seemed like forever chopping and mangling, I realised starti
 I was going to write the last running speed to eeprom, but decided that's a bit dangerous, so it's not implemented.
 Instead the fan should start at 25%.
 
+
 TODO:
-[ ] test on a fan
-[ ] build a non-breadboard version
-[ ] tidy up the code
-[ ] set the encoder button to set speed to zero if pressed
-[ ] read motor encoder pulse and display rpm (literally forgot this until now)
-[ ] only if issues - switch from loop() to interrupts
+- [ ] test on a fan
+- [ ] build a non-breadboard version
+- [ ] tidy up the code
+- [ ] set the encoder button to set speed to zero if pressed
+- [ ] read motor encoder pulse and display rpm (literally forgot this until now)
+- [ ] only if issues - switch from loop() to interrupts
 
 
 REALITY:
