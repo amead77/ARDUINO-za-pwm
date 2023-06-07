@@ -1,10 +1,10 @@
-## Motor PWM Controller for a small GR-18 ZA-EC Blue fan. (Z size, 240v)
+# Motor PWM Controller for a small GR-18 ZA-EC Blue fan. (Z size, 240v)
 
-#                        *** WARNING *** 
-#        as of 2023-06-07 it is currently untested on a fan.
-#    Everything works on the bench, but I haven't tested it on a fan yet.
-#            Or even built a non-breadboard version.
-#                        *** WARNING ***
+##                        *** WARNING *** 
+##        as of 2023-06-07 it is currently untested on a fan.
+##    Everything works on the bench, but I haven't tested it on a fan yet.
+##            Or even built a non-breadboard version.
+##                        *** WARNING ***
 
 
 the fan uses 10v on the internal pwm controller, I'm going to use 5v on the arduino pwm input in the hopes it'll
